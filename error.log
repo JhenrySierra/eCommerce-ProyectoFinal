@@ -1,0 +1,5 @@
+2023-10-03T00:06:52.031Z [[34mdebug[39m] [34mThis is a debug message.[39m
+2023-10-03T00:06:52.033Z [[32mhttp[39m] [32mThis is an http message.[39m
+2023-10-03T00:06:52.034Z [[32minfo[39m] [32mThis is an info message.[39m
+2023-10-03T00:06:52.034Z [[31mwarning[39m] [31mThis is a warning message.[39m
+2023-10-03T00:06:52.034Z [[31merror[39m] [31mThis is an error message.[39m

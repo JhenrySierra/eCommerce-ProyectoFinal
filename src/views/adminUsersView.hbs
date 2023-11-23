@@ -1,0 +1,37 @@
+<!-- adminUsersView.hbs -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Users View</title>
+</head>
+
+<body>
+    <h1>Admin Users View</h1>
+
+    <!-- Display user data and provide options to modify or delete users -->
+    <ul>
+        {{#each users}}
+        <li>
+            {{#each this}}
+            <p>User ID: {{_id}}</p>
+            <p>Username: {{username}}</p>
+            <p>Email: {{email}}</p>
+            <p>Role: {{role}}</p>
+            <!-- Add buttons or forms for modifying or deleting users -->
+            <form action="/auth/admin/users/{{this._id}}/edit" method="get">
+                <button type="submit">Edit</button>
+            </form>
+            <form action="/auth/admin/users/{{this._id}}/delete" method="post">
+                <button type="submit">Delete</button>
+            </form>
+            {{/each}}
+        
+        </li>
+        {{/each}}
+    </ul>
+</body>
+
+</html>
