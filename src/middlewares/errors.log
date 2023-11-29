@@ -1,0 +1,429 @@
+2023-10-03T00:10:16.368Z [debug] This is a debug message.
+2023-10-03T00:10:16.369Z [http] This is an http message.
+2023-10-03T00:10:16.369Z [info] This is an info message.
+2023-10-03T00:10:16.369Z [warning] This is a warning message.
+2023-10-03T00:10:16.369Z [error] This is an error message.
+2023-10-03T00:11:01.554Z [debug] This is a debug message.
+2023-10-03T00:11:01.556Z [http] This is an http message.
+2023-10-03T00:11:01.556Z [info] This is an info message.
+2023-10-03T00:11:01.556Z [warning] This is a warning message.
+2023-10-03T00:11:01.556Z [error] This is an error message.
+2023-10-03T00:11:01.557Z [fatal] This is a fatal message.
+2023-10-03T00:14:09.090Z [debug] This is a debug message.
+2023-10-03T00:14:09.091Z [http] This is an http message.
+2023-10-03T00:14:09.092Z [info] This is an info message.
+2023-10-03T00:14:09.092Z [warning] This is a warning message.
+2023-10-03T00:14:09.092Z [error] This is an error message.
+2023-10-03T00:14:09.092Z [fatal] This is a fatal message.
+2023-10-03T00:26:11.927Z [info] 🚀 Server listening on port 8080
+2023-10-03T00:26:13.123Z [info] Conectado a la base de datos de MongoDB!
+2023-10-03T00:26:54.622Z [debug] This is a debug message.
+2023-10-03T00:26:54.622Z [http] This is an http message.
+2023-10-03T00:26:54.623Z [info] This is an info message.
+2023-10-03T00:26:54.623Z [warning] This is a warning message.
+2023-10-03T00:26:54.623Z [error] This is an error message.
+2023-10-03T00:26:54.623Z [fatal] This is a fatal message.
+2023-10-11T23:49:58.945Z [info] 🚀 Server listening on port 8080
+2023-10-11T23:50:06.861Z [info] Conectado a la base de datos de MongoDB!
+2023-10-11T23:53:31.407Z [info] 🚀 Server listening on port 8080
+2023-10-11T23:53:38.062Z [info] Conectado a la base de datos de MongoDB!
+2023-10-11T23:58:19.264Z [info] 🚀 Server listening on port 8080
+2023-10-11T23:58:42.974Z [info] Conectado a la base de datos de MongoDB!
+2023-10-12T00:02:12.623Z [info] 🚀 Server listening on port 8080
+2023-10-12T00:02:14.753Z [info] Conectado a la base de datos de MongoDB!
+2023-10-12T00:11:11.796Z [info] 🚀 Server listening on port 8080
+2023-10-12T00:11:14.048Z [info] Conectado a la base de datos de MongoDB!
+2023-10-12T00:22:51.998Z [info] 🚀 Server listening on port 8080
+2023-10-12T00:22:58.484Z [info] Conectado a la base de datos de MongoDB!
+2023-10-12T00:40:42.139Z [info] 🚀 Server listening on port 8080
+2023-10-12T00:40:42.147Z [error] querySrv ECONNREFUSED _mongodb._tcp.eCommerce.v0liqcx.mongodb.net
+2023-10-12T00:41:22.070Z [info] 🚀 Server listening on port 8080
+2023-10-12T00:41:23.152Z [info] Conectado a la base de datos de MongoDB!
+2023-10-12T00:55:21.766Z [info] 🚀 Server listening on port 8080
+2023-10-12T00:55:23.252Z [info] Conectado a la base de datos de MongoDB!
+2023-10-12T02:20:42.235Z [info] 🚀 Server listening on port 8080
+2023-10-12T02:20:44.464Z [info] Conectado a la base de datos de MongoDB!
+2023-10-12T02:21:01.288Z [error] sendPasswordResetEmail is not a function
+2023-10-12T02:23:55.981Z [info] 🚀 Server listening on port 8080
+2023-10-12T02:24:05.150Z [info] Conectado a la base de datos de MongoDB!
+2023-10-12T02:27:29.915Z [info] 🚀 Server listening on port 8080
+2023-10-12T02:27:36.199Z [info] Conectado a la base de datos de MongoDB!
+2023-10-12T02:31:49.240Z [info] 🚀 Server listening on port 8080
+2023-10-12T02:31:56.257Z [info] Conectado a la base de datos de MongoDB!
+2023-10-12T02:33:17.971Z [info] 🚀 Server listening on port 8080
+2023-10-12T02:33:32.412Z [info] Conectado a la base de datos de MongoDB!
+2023-10-12T02:34:24.140Z [info] 🚀 Server listening on port 8080
+2023-10-12T02:34:28.486Z [info] Conectado a la base de datos de MongoDB!
+2023-10-12T02:40:09.413Z [info] 🚀 Server listening on port 8080
+2023-10-12T02:40:11.491Z [info] Conectado a la base de datos de MongoDB!
+2023-10-12T02:44:27.366Z [info] 🚀 Server listening on port 8080
+2023-10-12T02:45:21.175Z [info] 🚀 Server listening on port 8080
+2023-10-12T02:45:22.598Z [info] Conectado a la base de datos de MongoDB!
+2023-10-12T02:53:36.422Z [info] 🚀 Server listening on port 8080
+2023-10-12T02:53:51.571Z [info] 🚀 Server listening on port 8080
+2023-10-12T02:53:57.005Z [info] Conectado a la base de datos de MongoDB!
+2023-10-12T02:54:55.474Z [error] jwt must be provided
+2023-10-18T23:11:36.293Z [info] 🚀 Server listening on port 8080
+2023-10-18T23:11:37.260Z [info] Conectado a la base de datos de MongoDB!
+2023-10-18T23:15:34.224Z [info] 🚀 Server listening on port 8080
+2023-10-18T23:15:35.600Z [info] Conectado a la base de datos de MongoDB!
+2023-10-18T23:19:45.500Z [info] 🚀 Server listening on port 8080
+2023-10-18T23:19:46.629Z [info] Conectado a la base de datos de MongoDB!
+2023-10-18T23:45:39.990Z [info] 🚀 Server listening on port 8080
+2023-10-18T23:45:40.841Z [info] Conectado a la base de datos de MongoDB!
+2023-10-18T23:47:10.253Z [info] 🚀 Server listening on port 8080
+2023-10-18T23:47:11.169Z [info] Conectado a la base de datos de MongoDB!
+2023-10-18T23:49:56.441Z [info] 🚀 Server listening on port 8080
+2023-10-18T23:49:57.313Z [info] Conectado a la base de datos de MongoDB!
+2023-10-18T23:51:15.702Z [info] 🚀 Server listening on port 8080
+2023-10-18T23:51:16.707Z [info] Conectado a la base de datos de MongoDB!
+2023-10-18T23:51:57.033Z [info] 🚀 Server listening on port 8080
+2023-10-18T23:51:57.798Z [info] Conectado a la base de datos de MongoDB!
+2023-10-18T23:53:59.215Z [info] 🚀 Server listening on port 8080
+2023-10-18T23:54:00.266Z [info] Conectado a la base de datos de MongoDB!
+2023-10-29T16:22:11.718Z [info] 🚀 Server listening on port 8080
+2023-10-29T16:22:12.792Z [info] Conectado a la base de datos de MongoDB!
+2023-10-29T16:35:13.631Z [info] 🚀 Server listening on port 8080
+2023-10-29T16:35:14.979Z [info] Conectado a la base de datos de MongoDB!
+2023-10-29T16:35:52.638Z [error] jwt must be provided
+2023-10-29T16:38:48.219Z [error] jwt must be provided
+2023-10-29T17:32:16.574Z [info] Conectado a la base de datos de MongoDB!
+2023-10-29T17:32:18.433Z [info] Conectado a la base de datos de MongoDB!
+2023-10-29T17:38:07.213Z [info] Conectado a la base de datos de MongoDB!
+2023-10-29T17:38:08.302Z [info] Conectado a la base de datos de MongoDB!
+2023-10-29T17:38:08.577Z [info] Conectado a la base de datos de MongoDB!
+2023-10-29T17:38:08.578Z [info] Disconnected from the MongoDB database!
+2023-10-29T17:38:08.578Z [info] Disconnected from the MongoDB database!
+2023-10-29T17:38:09.483Z [info] Conectado a la base de datos de MongoDB!
+2023-10-29T17:38:09.489Z [info] Disconnected from the MongoDB database!
+2023-10-29T17:45:34.777Z [info] 🚀 Server listening on port 8080
+2023-10-29T17:45:36.012Z [info] Conectado a la base de datos de MongoDB!
+2023-10-30T23:21:11.341Z [info] Conectado a la base de datos de MongoDB!
+2023-10-30T23:21:12.132Z [info] Conectado a la base de datos de MongoDB!
+2023-10-30T23:21:12.350Z [info] Conectado a la base de datos de MongoDB!
+2023-10-30T23:21:12.351Z [info] Disconnected from the MongoDB database!
+2023-10-30T23:21:12.352Z [info] Disconnected from the MongoDB database!
+2023-10-30T23:21:13.550Z [info] Conectado a la base de datos de MongoDB!
+2023-10-30T23:21:13.558Z [info] Disconnected from the MongoDB database!
+2023-10-30T23:21:43.476Z [info] Conectado a la base de datos de MongoDB!
+2023-10-30T23:21:44.522Z [info] Conectado a la base de datos de MongoDB!
+2023-10-30T23:21:44.791Z [info] Disconnected from the MongoDB database!
+2023-10-30T23:21:47.449Z [info] Conectado a la base de datos de MongoDB!
+2023-10-30T23:21:47.450Z [info] Conectado a la base de datos de MongoDB!
+2023-10-30T23:21:47.451Z [info] Disconnected from the MongoDB database!
+2023-10-30T23:21:47.451Z [info] Disconnected from the MongoDB database!
+2023-10-30T23:29:03.783Z [info] Conectado a la base de datos de MongoDB!
+2023-10-30T23:29:05.796Z [info] Conectado a la base de datos de MongoDB!
+2023-10-30T23:29:05.944Z [info] Conectado a la base de datos de MongoDB!
+2023-10-30T23:29:05.954Z [info] Disconnected from the MongoDB database!
+2023-10-30T23:29:05.954Z [info] Disconnected from the MongoDB database!
+2023-10-30T23:29:05.959Z [info] Disconnected from the MongoDB database!
+2023-10-30T23:29:06.823Z [info] Conectado a la base de datos de MongoDB!
+2023-10-30T23:34:37.502Z [info] Conectado a la base de datos de MongoDB!
+2023-10-30T23:34:38.425Z [info] Conectado a la base de datos de MongoDB!
+2023-10-30T23:34:38.618Z [info] Disconnected from the MongoDB database!
+2023-10-30T23:34:38.626Z [info] Disconnected from the MongoDB database!
+2023-10-30T23:34:38.636Z [info] Disconnected from the MongoDB database!
+2023-10-30T23:34:39.475Z [info] Conectado a la base de datos de MongoDB!
+2023-10-30T23:34:39.491Z [info] Conectado a la base de datos de MongoDB!
+2023-10-30T23:38:52.457Z [info] Conectado a la base de datos de MongoDB!
+2023-10-30T23:38:53.491Z [info] Conectado a la base de datos de MongoDB!
+2023-10-30T23:38:53.742Z [info] Disconnected from the MongoDB database!
+2023-10-30T23:38:53.751Z [info] Disconnected from the MongoDB database!
+2023-10-30T23:38:53.761Z [info] Disconnected from the MongoDB database!
+2023-10-30T23:38:54.891Z [info] Conectado a la base de datos de MongoDB!
+2023-10-30T23:38:54.934Z [info] Conectado a la base de datos de MongoDB!
+2023-10-30T23:50:53.264Z [info] Conectado a la base de datos de MongoDB!
+2023-10-30T23:50:54.335Z [info] Conectado a la base de datos de MongoDB!
+2023-10-30T23:50:54.786Z [info] Disconnected from the MongoDB database!
+2023-10-30T23:51:36.979Z [info] Conectado a la base de datos de MongoDB!
+2023-10-30T23:51:37.982Z [info] Conectado a la base de datos de MongoDB!
+2023-10-30T23:51:38.523Z [info] Disconnected from the MongoDB database!
+2023-10-30T23:52:25.724Z [info] Conectado a la base de datos de MongoDB!
+2023-10-30T23:52:27.719Z [info] Conectado a la base de datos de MongoDB!
+2023-10-30T23:52:28.489Z [info] Disconnected from the MongoDB database!
+2023-10-30T23:53:41.167Z [info] Conectado a la base de datos de MongoDB!
+2023-10-30T23:53:42.259Z [info] Conectado a la base de datos de MongoDB!
+2023-10-30T23:53:42.829Z [info] Disconnected from the MongoDB database!
+2023-10-30T23:54:34.325Z [info] Conectado a la base de datos de MongoDB!
+2023-10-30T23:54:34.344Z [info] Disconnected from the MongoDB database!
+2023-10-30T23:59:45.850Z [info] Conectado a la base de datos de MongoDB!
+2023-10-30T23:59:46.863Z [info] Conectado a la base de datos de MongoDB!
+2023-10-30T23:59:47.324Z [info] Disconnected from the MongoDB database!
+2023-10-31T00:06:53.095Z [info] 🚀 Server listening on port 8080
+2023-10-31T00:06:54.248Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T00:07:04.470Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T00:07:05.429Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T00:07:05.958Z [info] Disconnected from the MongoDB database!
+2023-10-31T00:08:29.981Z [info] 🚀 Server listening on port 8080
+2023-10-31T00:08:31.052Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T01:05:54.863Z [info] 🚀 Server listening on port 8080
+2023-10-31T01:05:56.237Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T02:30:52.984Z [info] 🚀 Server listening on port 8080
+2023-10-31T02:30:54.317Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T02:40:54.468Z [info] 🚀 Server listening on port 8080
+2023-10-31T02:40:55.483Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T02:41:33.280Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T02:41:35.089Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T02:41:35.296Z [info] Disconnected from the MongoDB database!
+2023-10-31T02:43:46.795Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T02:43:47.889Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T02:43:48.349Z [info] Disconnected from the MongoDB database!
+2023-10-31T02:44:33.657Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T02:44:34.642Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T02:44:35.259Z [info] Disconnected from the MongoDB database!
+2023-10-31T02:47:43.181Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T02:47:44.256Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T02:47:44.810Z [info] Disconnected from the MongoDB database!
+2023-10-31T02:48:15.064Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T02:48:16.143Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T02:48:16.745Z [info] Disconnected from the MongoDB database!
+2023-10-31T02:50:56.355Z [info] 🚀 Server listening on port 8080
+2023-10-31T02:50:58.079Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T02:54:46.435Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T02:54:47.487Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T02:54:48.466Z [info] Disconnected from the MongoDB database!
+2023-10-31T02:57:25.399Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T02:57:26.483Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T02:57:27.110Z [info] Disconnected from the MongoDB database!
+2023-10-31T03:00:53.591Z [info] 🚀 Server listening on port 8080
+2023-10-31T03:00:54.650Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T03:03:37.546Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T03:03:38.810Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T03:03:39.524Z [info] Disconnected from the MongoDB database!
+2023-10-31T03:07:37.896Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T03:07:39.192Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T03:07:39.672Z [info] Disconnected from the MongoDB database!
+2023-10-31T03:08:04.593Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T03:08:05.451Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T03:08:05.968Z [info] Disconnected from the MongoDB database!
+2023-10-31T03:09:43.330Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T03:09:44.673Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T03:09:45.348Z [info] Disconnected from the MongoDB database!
+2023-10-31T23:10:27.745Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:10:29.259Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:10:29.766Z [info] Disconnected from the MongoDB database!
+2023-10-31T23:11:09.794Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:11:10.868Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:11:11.581Z [info] Disconnected from the MongoDB database!
+2023-10-31T23:12:25.071Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:12:26.263Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:12:26.960Z [info] Disconnected from the MongoDB database!
+2023-10-31T23:13:33.098Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:13:34.030Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:13:34.952Z [info] Disconnected from the MongoDB database!
+2023-10-31T23:14:35.441Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:14:36.530Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:14:37.101Z [info] Disconnected from the MongoDB database!
+2023-10-31T23:14:56.831Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:14:57.899Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:14:58.467Z [info] Disconnected from the MongoDB database!
+2023-10-31T23:15:54.695Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:15:55.889Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:15:56.702Z [info] Disconnected from the MongoDB database!
+2023-10-31T23:16:32.556Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:16:34.490Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:16:34.586Z [info] Disconnected from the MongoDB database!
+2023-10-31T23:16:40.994Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:16:42.101Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:16:42.643Z [info] Disconnected from the MongoDB database!
+2023-10-31T23:18:05.758Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:18:06.954Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:18:07.653Z [info] Disconnected from the MongoDB database!
+2023-10-31T23:29:11.397Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:29:12.485Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:29:13.062Z [info] Disconnected from the MongoDB database!
+2023-10-31T23:29:48.635Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:29:49.690Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:29:50.483Z [info] Disconnected from the MongoDB database!
+2023-10-31T23:30:13.117Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:30:14.169Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:30:15.136Z [info] Disconnected from the MongoDB database!
+2023-10-31T23:33:37.239Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:33:38.484Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:33:39.222Z [info] Disconnected from the MongoDB database!
+2023-10-31T23:34:34.562Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:34:35.482Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:34:36.114Z [info] Disconnected from the MongoDB database!
+2023-10-31T23:37:31.675Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:37:33.731Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:37:34.621Z [info] Disconnected from the MongoDB database!
+2023-10-31T23:38:11.908Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:38:13.025Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:38:13.716Z [info] Disconnected from the MongoDB database!
+2023-10-31T23:42:25.928Z [info] 🚀 Server listening on port 8080
+2023-10-31T23:42:26.865Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:47:02.885Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:47:04.052Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:47:04.868Z [info] Disconnected from the MongoDB database!
+2023-10-31T23:52:28.592Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:52:29.657Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:52:30.307Z [info] Disconnected from the MongoDB database!
+2023-10-31T23:53:00.534Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:53:01.600Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:53:02.411Z [info] Disconnected from the MongoDB database!
+2023-10-31T23:53:50.477Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:53:51.452Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:53:52.020Z [info] Disconnected from the MongoDB database!
+2023-10-31T23:54:09.849Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:54:10.838Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:54:11.683Z [info] Disconnected from the MongoDB database!
+2023-10-31T23:57:34.971Z [info] 🚀 Server listening on port 8080
+2023-10-31T23:57:34.995Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:57:36.190Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:57:36.695Z [info] Disconnected from the MongoDB database!
+2023-10-31T23:57:49.655Z [info] 🚀 Server listening on port 8080
+2023-10-31T23:57:49.682Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:57:50.566Z [info] Conectado a la base de datos de MongoDB!
+2023-10-31T23:57:51.592Z [info] Disconnected from the MongoDB database!
+2023-11-01T00:02:13.642Z [info] 🚀 Server listening on port 8080
+2023-11-01T00:02:13.665Z [info] Conectado a la base de datos de MongoDB!
+2023-11-01T00:02:14.750Z [info] Conectado a la base de datos de MongoDB!
+2023-11-01T00:02:15.210Z [info] Disconnected from the MongoDB database!
+2023-11-01T00:02:36.383Z [info] Conectado a la base de datos de MongoDB!
+2023-11-01T00:02:37.491Z [info] Conectado a la base de datos de MongoDB!
+2023-11-01T00:02:38.645Z [info] Disconnected from the MongoDB database!
+2023-11-01T00:03:08.491Z [info] Conectado a la base de datos de MongoDB!
+2023-11-01T00:03:09.356Z [info] Conectado a la base de datos de MongoDB!
+2023-11-01T00:03:10.181Z [info] Disconnected from the MongoDB database!
+2023-11-01T00:05:54.480Z [info] 🚀 Server listening on port 8080
+2023-11-01T00:05:55.604Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T14:53:48.434Z [info] 🚀 Server listening on port 8080
+2023-11-12T14:53:49.846Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T15:02:39.376Z [info] 🚀 Server listening on port 8080
+2023-11-12T15:02:41.045Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T15:03:16.320Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T15:03:17.570Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T15:03:18.372Z [info] Disconnected from the MongoDB database!
+2023-11-12T15:04:35.449Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T15:04:37.215Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T15:04:37.472Z [info] Disconnected from the MongoDB database!
+2023-11-12T15:04:48.475Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T15:04:49.401Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T15:04:50.025Z [info] Disconnected from the MongoDB database!
+2023-11-12T15:05:25.754Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T15:05:26.840Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T15:05:27.502Z [info] Disconnected from the MongoDB database!
+2023-11-12T15:06:33.059Z [info] 🚀 Server listening on port 8080
+2023-11-12T15:06:34.864Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T15:08:06.335Z [info] 🚀 Server listening on port 8080
+2023-11-12T15:08:07.557Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T15:11:12.485Z [info] 🚀 Server listening on port 8080
+2023-11-12T15:11:13.855Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T15:12:05.982Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T15:12:07.174Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T15:12:08.036Z [info] Disconnected from the MongoDB database!
+2023-11-12T15:12:55.798Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T15:12:56.798Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T15:12:57.737Z [info] Disconnected from the MongoDB database!
+2023-11-12T15:14:24.518Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T15:14:25.865Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T15:14:26.696Z [info] Disconnected from the MongoDB database!
+2023-11-12T15:21:02.015Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T15:21:03.284Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T15:21:04.003Z [info] Disconnected from the MongoDB database!
+2023-11-12T15:21:40.331Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T15:21:41.219Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T15:21:41.825Z [info] Disconnected from the MongoDB database!
+2023-11-12T15:24:10.555Z [info] 🚀 Server listening on port 8080
+2023-11-12T15:24:11.976Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T15:24:16.773Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T15:24:17.687Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T15:24:18.383Z [info] Disconnected from the MongoDB database!
+2023-11-12T15:24:37.922Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T15:24:38.872Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T15:24:39.490Z [info] Disconnected from the MongoDB database!
+2023-11-12T15:25:59.100Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T15:26:00.445Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T15:26:01.018Z [info] Disconnected from the MongoDB database!
+2023-11-12T15:30:28.698Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T15:30:29.956Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T15:30:30.526Z [info] Disconnected from the MongoDB database!
+2023-11-12T15:36:55.934Z [info] 🚀 Server listening on port 8080
+2023-11-12T15:36:57.278Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T15:42:06.948Z [info] 🚀 Server listening on port 8080
+2023-11-12T15:42:07.987Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T16:12:24.953Z [info] 🚀 Server listening on port 8080
+2023-11-12T16:12:26.217Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T16:19:56.335Z [info] 🚀 Server listening on port 8080
+2023-11-12T16:19:57.640Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T16:21:00.445Z [info] 🚀 Server listening on port 8080
+2023-11-12T16:21:01.600Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T16:58:31.158Z [info] 🚀 Server listening on port 8080
+2023-11-12T16:58:36.169Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T17:03:27.767Z [error] products validation failed: id: Path `id` is required., stock: Path `stock` is required., price: Path `price` is required., title: Path `title` is required., code: Path `code` is required.
+2023-11-12T17:03:53.097Z [error] products validation failed: id: Path `id` is required., stock: Path `stock` is required., price: Path `price` is required., title: Path `title` is required., code: Path `code` is required.
+2023-11-12T17:04:25.954Z [info] 🚀 Server listening on port 8080
+2023-11-12T17:04:28.077Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T17:04:43.489Z [error] products validation failed: id: Path `id` is required., stock: Path `stock` is required., price: Path `price` is required., title: Path `title` is required., code: Path `code` is required.
+2023-11-12T17:11:55.693Z [info] 🚀 Server listening on port 8080
+2023-11-12T17:11:56.808Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T17:14:07.214Z [info] 🚀 Server listening on port 8080
+2023-11-12T17:14:08.536Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T17:47:18.857Z [info] 🚀 Server listening on port 8080
+2023-11-12T17:47:19.872Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T17:50:13.195Z [info] 🚀 Server listening on port 8080
+2023-11-12T17:50:14.513Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T17:51:14.555Z [info] 🚀 Server listening on port 8080
+2023-11-12T17:51:15.515Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T17:53:58.406Z [info] 🚀 Server listening on port 8080
+2023-11-12T17:53:59.633Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T18:16:24.781Z [info] 🚀 Server listening on port 8080
+2023-11-12T18:16:25.968Z [info] Conectado a la base de datos de MongoDB!
+2023-11-12T18:27:23.041Z [info] 🚀 Server listening on port 8080
+2023-11-12T18:27:25.068Z [info] Conectado a la base de datos de MongoDB!
+2023-11-17T22:49:00.137Z [info] 🚀 Server listening on port 8080
+2023-11-17T22:49:01.241Z [info] Conectado a la base de datos de MongoDB!
+2023-11-19T14:45:58.759Z [info] 🚀 Server listening on port 8080
+2023-11-19T14:45:59.573Z [info] Conectado a la base de datos de MongoDB!
+2023-11-19T14:51:15.759Z [info] 🚀 Server listening on port 8080
+2023-11-19T14:51:16.549Z [info] Conectado a la base de datos de MongoDB!
+2023-11-19T15:09:54.119Z [info] 🚀 Server listening on port 8080
+2023-11-19T15:09:54.907Z [info] Conectado a la base de datos de MongoDB!
+2023-11-19T15:12:45.142Z [info] 🚀 Server listening on port 8080
+2023-11-19T15:12:45.924Z [info] Conectado a la base de datos de MongoDB!
+2023-11-19T15:15:07.449Z [info] 🚀 Server listening on port 8080
+2023-11-19T15:15:08.257Z [info] Conectado a la base de datos de MongoDB!
+2023-11-19T15:27:10.806Z [info] 🚀 Server listening on port 8080
+2023-11-19T15:27:11.626Z [info] Conectado a la base de datos de MongoDB!
+2023-11-19T15:27:37.366Z [info] Creating ticket with amount:
+2023-11-20T18:52:38.215Z [info] 🚀 Server listening on port 8080
+2023-11-20T18:52:39.262Z [info] Conectado a la base de datos de MongoDB!
+2023-11-20T18:54:43.428Z [info] 🚀 Server listening on port 8080
+2023-11-20T18:54:44.495Z [info] Conectado a la base de datos de MongoDB!
+2023-11-20T18:57:52.458Z [info] 🚀 Server listening on port 8080
+2023-11-20T18:57:53.528Z [info] Conectado a la base de datos de MongoDB!
+2023-11-20T19:00:43.026Z [info] 🚀 Server listening on port 8080
+2023-11-20T19:00:44.129Z [info] Conectado a la base de datos de MongoDB!
+2023-11-20T19:02:30.808Z [info] 🚀 Server listening on port 8080
+2023-11-20T19:02:31.593Z [info] Conectado a la base de datos de MongoDB!
+2023-11-20T19:05:26.030Z [info] 🚀 Server listening on port 8080
+2023-11-20T19:05:26.962Z [info] Conectado a la base de datos de MongoDB!
+2023-11-20T19:15:38.194Z [info] 🚀 Server listening on port 8080
+2023-11-20T19:15:39.225Z [info] Conectado a la base de datos de MongoDB!
+2023-11-20T19:16:19.679Z [info] 🚀 Server listening on port 8080
+2023-11-20T19:16:20.642Z [info] Conectado a la base de datos de MongoDB!
+2023-11-20T19:39:57.284Z [info] 🚀 Server listening on port 8080
+2023-11-20T19:39:58.277Z [info] Conectado a la base de datos de MongoDB!
+2023-11-20T19:51:48.860Z [info] 🚀 Server listening on port 8080
+2023-11-20T19:51:49.763Z [info] Conectado a la base de datos de MongoDB!
+2023-11-20T19:53:41.602Z [info] 🚀 Server listening on port 8080
+2023-11-20T19:53:42.813Z [info] Conectado a la base de datos de MongoDB!
+2023-11-21T00:37:20.501Z [info] 🚀 Server listening on port 8080
+2023-11-21T00:37:21.583Z [info] Conectado a la base de datos de MongoDB!
+2023-11-21T00:51:09.685Z [info] 🚀 Server listening on port 8080
+2023-11-21T00:51:10.622Z [info] Conectado a la base de datos de MongoDB!
+2023-11-21T00:53:56.620Z [info] 🚀 Server listening on port 8080
+2023-11-21T00:53:57.489Z [info] Conectado a la base de datos de MongoDB!
+2023-11-21T01:01:01.204Z [info] 🚀 Server listening on port 8080
+2023-11-21T01:01:02.249Z [info] Conectado a la base de datos de MongoDB!
+2023-11-21T01:03:45.269Z [info] 🚀 Server listening on port 8080
+2023-11-21T01:03:46.243Z [info] Conectado a la base de datos de MongoDB!
+2023-11-21T18:14:03.285Z [info] 🚀 Server listening on port 8080
+2023-11-21T18:14:04.130Z [info] Conectado a la base de datos de MongoDB!
+2023-11-21T18:15:54.801Z [info] 🚀 Server listening on port 8080
+2023-11-21T18:15:55.836Z [info] Conectado a la base de datos de MongoDB!
+2023-11-21T18:17:20.287Z [info] 🚀 Server listening on port 8080
+2023-11-21T18:17:21.092Z [info] Conectado a la base de datos de MongoDB!
+2023-11-23T18:16:31.960Z [info] 🚀 Server listening on port 8080
+2023-11-23T18:16:32.940Z [info] Conectado a la base de datos de MongoDB!
