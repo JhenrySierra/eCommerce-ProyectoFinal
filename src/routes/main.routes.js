@@ -9,9 +9,6 @@ const isAuthenticated = require('../middlewares/isAuthenticated.js');
 const express = require('express');
 const app = require('../config.js');
 
-app.get('/', (req, res) => {
-    res.redirect('/products');
-});
 
 app.use('/api/products', productRouter);
 app.use('/api/carts', cartRouter);
