@@ -28,8 +28,6 @@ const getAll = async (req, res, next) => {
             role: req.user ? req.user.role : "API_ROLE", // Provide a default value if req.user is undefined
             cartId: req.user ? req.user.cart : null, // Provide a default value or handle accordingly
         };
-        
-        console.log(responseData);
         return responseData; // Return the data for HTML rendering
     } catch (error) {
         next(error);
