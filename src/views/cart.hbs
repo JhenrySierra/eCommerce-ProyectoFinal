@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Product List</title>
+</head>
+
+<body>
+    <h1>Welcome, {{username}}</h1>
+    <h2>Your cart</h2>
+
+        <form action="{{cartId}}/purchase" method="post">
+            <button type="submit">Checkout</button>
+        </form>
+
+    {{#each cartProducts}}
+    {{product}}
+    {{#each this}}
+    {{product}}
+
+    <div>
+        {{#each this}}
+        {{product}}
+        {{#each this}}
+        {{quantity}}
+        {{/each}}
+    </div>
+    {{/each}}
+    {{/each}}
+
+    {{/each}}
+</body>
+
+</html>

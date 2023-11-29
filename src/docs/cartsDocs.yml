@@ -1,0 +1,133 @@
+info:
+  title: My Cart API
+  version: 1.0.0
+paths:
+  /api/carts:
+    get:
+      summary: Get all carts
+      description: Retrieve a list of all carts.
+      responses:
+        '200':
+          description: A list of carts
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  type: object
+    post:
+      summary: Create a new cart
+      description: Create a new cart.
+      responses:
+        '201':
+          description: The newly created cart
+  /api/carts/{cartId}:
+    get:
+      summary: Get a cart by ID
+      description: Retrieve a specific cart by its ID.
+      parameters:
+        - in: path
+          name: cartId
+          required: true
+          description: ID of the cart
+          schema:
+            type: string
+      responses:
+        '200':
+          description: The requested cart
+        '404':
+          description: Cart not found
+    put:
+      summary: Update a cart
+      description: Update an existing cart.
+      parameters:
+        - in: path
+          name: cartId
+          required: true
+          description: ID of the cart
+          schema:
+            type: string
+      responses:
+        '200':
+          description: The updated cart
+        '404':
+          description: Cart not found
+    delete:
+      summary: Delete a cart
+      description: Delete an existing cart.
+      parameters:
+        - in: path
+          name: cartId
+          required: true
+          description: ID of the cart
+          schema:
+            type: string
+      responses:
+        '204':
+          description: Cart deleted
+        '404':
+          description: Cart not found
+  /api/carts/{cartId}/products/{productId}:
+    post:
+      summary: Add a product to a cart
+      description: Add a product to an existing cart.
+      parameters:
+        - in: path
+          name: cartId
+          required: true
+          description: ID of the cart
+          schema:
+            type: string
+        - in: path
+          name: productId
+          required: true
+          description: ID of the product to add
+          schema:
+            type: string
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/CartItem'
+      responses:
+        '200':
+          description: Product added to the cart
+        '404':
+          description: Cart or product not found
+    delete:
+      summary: Delete a product from a cart
+      description: Delete a product from an existing cart.
+      parameters:
+        - in: path
+          name: cartId
+          required: true
+          description: ID of the cart
+          schema:
+            type: string
+        - in: path
+          name: productId
+          required: true
+          description: ID of the product to delete
+          schema:
+            type: string
+      responses:
+        '204':
+          description: Product deleted from the cart
+        '404':
+          description: Cart or product not found
+  /api/carts/{cartId}/purchase:
+    post:
+      summary: Purchase the cart
+      description: Purchase the items in the cart.
+      parameters:
+        - in: path
+          name: cartId
+          required: true
+          description: ID of the cart to purchase
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Cart items purchased
+        '404':
+          description: Cart not found

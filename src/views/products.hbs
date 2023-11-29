@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Product List</title>
+</head>
+
+<body>
+    <h2>Welcome, {{username}} ({{role}})</h2>
+    <a href="/auth/logout">
+        <button>Logout</button>
+    </a>
+    <a href="cart/{{cartId}}">
+        <button>Cart</button>
+    </a>
+
+    <h3>Product List</h3>
+    <ul>
+        {{#each payload}}
+        {{#each this}}
+        <li>
+            {{title}}<br>
+            {{description}}<br>
+            {{price}}<br>
+            Stock: {{stock}}<br>
+            <form action="cart/{{../../cartId}}/products/{{this._id}}" method="post">
+                <input type="number" id="quantity" name="quantity" min="1" required>
+                <input type="hidden" id="productId" name="productId" value="{{this._id}}">
+                <button type="submit">Add to Cart</button>
+            </form>
+        </li>
+        {{/each}}
+        {{/each}}
+    </ul>
+
+    <!-- Pagination links -->
+    {{#if hasNextPage}}
+    <a href="{{nextLink}}">Next</a>
+    {{/if}}
+
+    {{#if hasPrevPage}}
+    <a href="{{prevLink}}">Previous</a>
+    {{/if}}
+
+</body>
+
+</html>

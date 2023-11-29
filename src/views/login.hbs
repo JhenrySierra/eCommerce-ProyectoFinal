@@ -1,0 +1,38 @@
+<!-- views/login.hbs -->
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>User Login</title>
+</head>
+
+<body>
+    <h1>User Login</h1>
+    {{#if messages.error}}
+    <div class="error-message">{{ messages.error }}</div>
+    {{/if}}
+    <form action="/auth/login" method="post">
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required>
+
+        <button type="submit">Login</button>
+    </form>
+
+    <a href="/auth/register">
+        <button>Register</button>
+    </a>
+    
+    <a href="/auth/github">
+        <button>Login with GitHub</button>
+    </a>
+    
+        <a href="/auth/forgotPassword">
+            <button>Forgot Password</button>
+        </a>
+
+</body>
+
+</html>
